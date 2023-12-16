@@ -16,4 +16,4 @@ You can Access this Project By [This Link](https://github.com/faranaktalebiii/py
 ## Latest  Exercise Status
 - [x] Session 0
 - [x] Session 1
-- [] Session 2
+- [ ] Session 2
