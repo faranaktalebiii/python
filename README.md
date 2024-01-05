@@ -3,7 +3,7 @@ Python course exercises are included in this project
 ---
 
 ## Session 1 
-The exercises of the first session include the following
+The exercises of the first and Second session include the following
 |  #  | Session 1 Exercise |
 | -  | -------------------|
 |1| Calculator | Done |
@@ -17,7 +17,7 @@ The exercises of the first session include the following
 |9| Time To Second| Done |
 | 10| Second To time| Done |
 
-
+The exercises of the Third session include the following
 |  #  | Session 3 Exercise |
 | -  | -------------------| Desc.|
 |1| Count Word | Done | Enter The Sentence and Count the Word |
