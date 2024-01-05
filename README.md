@@ -18,8 +18,8 @@ The exercises of the first and Second session include the following
 | 10| Second To time| Done |
 
 The exercises of the Third session include the following
-|  #  | Session 3 Exercise |
-| -  | -------------------| Desc.|
+|  #  | Session 3 Exercise | Status| Description|
+| -  | -----| - |-|
 |1| Count Word | Done | Enter The Sentence and Count the Word |
 |2| GCD        | Done | Calculate Greatest Common Divisor |
 |3| Hangman  | Done| Guess the word |
